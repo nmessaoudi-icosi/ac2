@@ -1,0 +1,24 @@
+# Fichier contenant les clés API et identifiants ThingSpeak
+.env
+
+# Environnement virtuel Python
+venv/
+.env/
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichier CSV généré automatiquement par la simulation
+simulation_log.csv
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'éditeurs
+.vscode/
+.idea/
